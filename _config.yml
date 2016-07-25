@@ -1,0 +1,74 @@
+# Site settings
+title: Leon Liang's Resume
+description: leonliang10's CV
+favicon: /assets/img/avatar.JPG
+baseurl: https://leonliang10.github.io/
+url: https://leonliang10.github.io
+rss_url: /pages/atom.xml
+google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Leon Liang
+  title: Aspiring Data Scientist
+  address: Bay Area, California
+  email: leonliang10 [at] berkeley [dot] com
+  link: 
+  weibo:
+  github: leonliang10
+  linkedin: leonliang10
+  twitter: 
+  gavatar: /resumecard/assets/img/avatar.JPG
+  stackoverflow:
+
+  workHistory:
+    - work1:
+      company: Lockheed Martin Space Systems Company
+      location: Sunnyvale, California
+      title: Data Scientist Intern
+      started: 2016
+      duration: (2016 - Present)
+      description: [description]
+  educationHistory:
+    - education1:
+      organization: University of California, Berkeley College of Engineering
+      location: Berkeley, California
+      degree: Bachelor of Science
+      major: Engineering Mathematics and Statistics with emphasis in Computer Science
+      started: 2013
+      duration: (2013 - 2017)
+      description: [description]
+  languages:
+    - language1:
+      name: English
+      proficiency: Native
+    - language2:
+      name: Cantonese
+      proficiency: Native
+    - language3:
+      name: Mandarin
+      proficiency: Professional
+  programmingSkills:
+    - skill1:
+      name: Python
+      percentage: 100%
+    - skill2:
+      name: R
+      percentage: 100%
+    - skill3:
+      name: Java
+      percentage: 90%
+    - skill4:
+      name: MATLAB
+      percentage: 85%
+    - skill5:
+      name: Swift
+      percentage: 50%
+    - skill6:
+      name: C
+      percentage: 30%
