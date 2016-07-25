@@ -35,11 +35,23 @@ author:
       duration: (May 2016 - Present)
       description: Data Scientist Intern to support the Market Analysis Team within Competitive Intelligence that will underpin and guide Lockheed Martin Space System Company's future. Develop market forecasting models using data mining, text mining, and predictive modeling. Develop and maintain information web portal dash board and database. Extract intelligence from stored data. Prepare information abstracts of intelligence gathered.
     - work2:
-      company: University of California, Berkeley
+      company: UC Berkeley Vision Computing Lab
       location: Berkeley, California, United States
       started: 2016
-      duration: (2016 - Present)
-      description: [description]
+      duration: (Mar 2016 - Present)
+      description: Research Assistant for Computer vision research that focuses on the analysis and finding of photo parameters that affect the realism of the captured photo versus the natural scene. The goal is the utilize machine learning to learn the parameters.
+    - work3:
+      company: UC Berkeley EECS Accounting
+      location: Berkeley, California, United States
+      started: 2015
+      duration: (Oct 2015 - Present)
+      description: Accounting assistant assisting EECS Accounting group with financial projects and processing EECS professosr and department fundings.
+    - work4:
+      company: UC Berkeley Physics
+      location: Berkeley, California, United States
+      started: 2014
+      duration: (Aug 2014 - May 2016)
+      description: Online Database of Extragalactic Transient Theoretical Astrophysics (ODETTA) is an open source astrophysics website and database that uses supernovae data gathered from the Lawrence Berkeley National Laboratory to run computer simulations on the NERSC supercomputers to improve our knowledge in supernovae. This research aims to apply machine learning techniques to help analyze and predict the categories of supernova data and its features.
   educationHistory:
     - education1:
       organization: University of California, Berkeley College of Engineering
@@ -48,7 +60,7 @@ author:
       major: Engineering Mathematics and Statistics with emphasis in Computer Science
       started: 2013
       duration: (2013 - 2017)
-      description: [description]
+      description: My current major is engineering mathematics and statistics with emphasis in computer science. Relevant coursework for my major includes many of both theoretical and applied mathematics, statistics, and computer science courses. \n Relevant coursework include Machine Learning, Artificial Intelligence, Efficient Algorithms and Intractable Problems, Data Structures, Concepts in Probability, Concepts in Data Computing, Linear Algebra, Numerical Analysis, Real Analysis, Complex Analysis
   languages:
     - language1:
       name: English
