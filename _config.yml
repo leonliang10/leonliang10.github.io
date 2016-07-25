@@ -39,7 +39,7 @@ author:
       location: Berkeley, California, United States
       started: 2016
       duration: (Mar 2016 - Present)
-      description: Research Assistant for Computer vision research that focuses on the analysis and finding of photo parameters that affect the realism of the captured photo versus the natural scene. The goal is the utilize machine learning to learn the parameters.
+      description: Research Assistant for Computer vision research that focuses on the analysis and finding of photo parameters that affect the realism of the captured photo versus the natural scene. Contribute to the iOS application development, ColorCorrection, which will be used to collect experimental data for machine learning analysis. ColorCorrection is an interface to simulate the Vermeer mirror experiment for our research to learn the parameters in photos that affect the realism in captured photos. The goal is the utilize machine learning to learn the parameters.
     - work3:
       company: UC Berkeley EECS Accounting
       location: Berkeley, California, United States
