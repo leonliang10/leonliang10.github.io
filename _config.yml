@@ -91,9 +91,12 @@ author:
       percentage: 90%
     - skill4:
       name: MATLAB
-      percentage: 85%
+      percentage: 90%
     - skill5:
       name: Swift
+      percentage: 50%
+    - skill6:
+      name: Objective-C
       percentage: 50%
     - skill6:
       name: C
