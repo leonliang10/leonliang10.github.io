@@ -33,25 +33,25 @@ author:
       title: Data Scientist Intern
       started: 2016
       duration: (May 2016 - Present)
-      description: Data Scientist Intern to support the Market Analysis Team within Competitive Intelligence that will underpin and guide Lockheed Martin Space System Company's future. Develop market forecasting models using data mining, text mining, and predictive modeling. Develop and maintain information web portal dash board and database. Extract intelligence from stored data. Prepare information abstracts of intelligence gathered.
+      description: Data Scientist Intern that supported Market Analysis Team within Competitive Intelligence to analyze space industry. Developed a sentiment analysis tool (Java) using NLP to generate LM’s major competitors’ trending using over 3,000 articles scrapped from space industry related news websites. Developed a predictive analytics tool (R) that predicts space project costs using regression trees with existing LM database consisting of over 15,000 data of previous space projects. Generated statistical reports of estimated project costs from predictive analytics tool results for the team to use on market analysis and strategic planning for future space projects.
     - work2:
       company: UC Berkeley Vision Computing Lab
       location: Berkeley, California, United States
       started: 2016
       duration: (Mar 2016 - Present)
-      description: Research Assistant for Computer vision research that focuses on the analysis and finding of photo parameters that affect the realism of the captured photo versus the natural scene. The goal is the utilize machine learning to learn the parameters.
+      description: Research Assistant for Computer vision research that focuses on the analysis and finding of what photo parameters will generate a more realistic photo of the real world. The goal is the utilize machine learning to learn the parameters. I'm also revamping the iOS photo editing application to collect more useful photo data
     - work3:
       company: UC Berkeley EECS Accounting
       location: Berkeley, California, United States
       started: 2015
       duration: (Oct 2015 - Present)
-      description: Accounting assistant assisting EECS Accounting group with financial projects and processing EECS professosr and department fundings.
+      description: Accounting assistant assisting EECS Accounting group with financial projects and processing EECS professosr and department fundings. Supporting accounting group with departmental funding from thousands to millions of dollars. Updated the EECS textbook database for faster and simpler data entry for future users
     - work4:
       company: UC Berkeley Physics
       location: Berkeley, California, United States
       started: 2014
       duration: (Aug 2014 - May 2016)
-      description: Online Database of Extragalactic Transient Theoretical Astrophysics (ODETTA) is an open source astrophysics website and database that uses supernovae data gathered from the Lawrence Berkeley National Laboratory to run computer simulations on the NERSC supercomputers to improve our knowledge in supernovae. This research aims to apply machine learning techniques to help analyze and predict the categories of supernova data and its features.
+      description: Online Database of Extragalactic Transient Theoretical Astrophysics (ODETTA) is an open source astrophysics website and database that uses supernovae data gathered from the Lawrence Berkeley National Laboratory to run computer simulations on the NERSC supercomputers to improve our knowledge in supernovae. This research aims to apply machine learning techniques to help analyze and predict the categories of supernova data and its features. Applied Principal Component Analysis (PCA) to extract key features from over 1,000,000 supernova data with Python using NumPy, SciPy, and MatPlotLib to build predictive models. Applied machine learning to generate K-means Clustering models to predict the supernova categories of future observed supernova datasets. Handled the data processing pipeline for all observed and computer simulated supernova data
   educationHistory:
     - education1:
       organization: University of California, Berkeley College of Engineering
