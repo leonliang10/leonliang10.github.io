@@ -39,7 +39,7 @@ author:
       location: Berkeley, California, United States
       started: 2016
       duration: (Mar 2016 - Present)
-      description: Research Assistant for Computer vision research that focuses on the analysis and finding of what photo parameters will generate a more realistic photo of the real world. The goal is the utilize machine learning to learn the parameters. I'm also revamping the iOS photo editing application to collect more useful photo data
+      description: Research Assistant for Computer vision research that focuses on the analysis and identifying photo parameters that affect the realism of the captured photo versus the natural scene. Revamping the iOS application development, ColorCorrection, which will be used to collect experimental data for machine learning analysis. ColorCorrection is an interface to simulate the Vermeer mirror experiment for our research to learn the parameters in photos that affect the realism in captured photos. The goal is the utilize machine learning to learn the parameters.
     - work3:
       company: UC Berkeley EECS Accounting
       location: Berkeley, California, United States
@@ -60,7 +60,15 @@ author:
       major: Engineering Mathematics and Statistics with emphasis in Computer Science
       started: 2013
       duration: (2013 - 2017)
-      description: My current major is engineering mathematics and statistics with emphasis in computer science. Relevant coursework for my major includes many of both theoretical and applied mathematics, statistics, and computer science courses. gRelevant courseworks Machine Learning, Artificial Intelligence, Efficient Algorithms and Intractable Problems, Data Structures, Concepts in Probability, Concepts in Data Computing, Linear Algebra, Numerical Analysis, Real Analysis, Complex Analysis
+      description: My current major is engineering mathematics and statistics with emphasis in computer science. Relevant coursework for my major includes many of both theoretical and applied mathematics, statistics, and computer science courses. gRelevant courseworks Machine Learning, Artificial Intelligence, Efficient Algorithms and Intractable Problems, Data Structures, Concepts in Probability, Concepts in Data Computing, Linear Algebra, Numerical Analysis, Real Analysis, Complex Analysis.
+    - education2:
+      organization: College of Alameda
+      location: Alameda, California, United States
+      degree: Associate of Arts
+      major: Mathematics
+      started: 2009
+      duration: (2009 - 2013)
+      description: Attended College of Alameda while in high school. Graduated with an Associate of Arts in Mathematics at the same time as high school.
   languages:
     - language1:
       name: English
@@ -83,9 +91,12 @@ author:
       percentage: 90%
     - skill4:
       name: MATLAB
-      percentage: 85%
+      percentage: 90%
     - skill5:
       name: Swift
+      percentage: 50%
+    - skill6:
+      name: Objective-C
       percentage: 50%
     - skill6:
       name: C
