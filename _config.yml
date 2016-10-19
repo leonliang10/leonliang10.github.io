@@ -33,7 +33,7 @@ author:
       title: Data Scientist Intern
       started: 2016
       duration: (May 2016 - Present)
-      description: Data Scientist Intern that supported Market Analysis Team within Competitive Intelligence to analyze space industry. Developed a sentiment analysis tool (Java) using NLP to generate LM’s major competitors’ trending using over 3,000 articles scrapped from space industry related news websites. Developed a predictive analytics tool (R) that predicts space project costs using regression trees with existing LM database consisting of over 15,000 data of previous space projects. Generated statistical reports of estimated project costs from predictive analytics tool results for the team to use on market analysis and strategic planning for future space projects.
+      description: Data Scientist Intern that supported Market Analysis Team within Competitive Intelligence to analyze space industry. Developed a sentiment analysis tool (Java) using NLP to generate LM’s major competitors’ trending using over 3,000 articles scrapped from space industry related news websites. Developed a predictive analytics tool (R) that predicts space project costs using regression trees with existing LM database consisting of over 15,000 data of previous space projects. Created a web application with a simple user interface for the predictive analytics tool for LM members to use with ease. Generated statistical reports of estimated project costs from predictive analytics tool results for the team to use on market analysis and strategic planning for future space projects.
     - work2:
       company: UC Berkeley Vision Computing Lab
       location: Berkeley, California, United States
