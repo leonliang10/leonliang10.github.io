@@ -32,7 +32,7 @@ author:
       location: Berkeley, California, United States
       started: 2017
       duration: (January 2016 - Present)
-      description: Data Science Connector Assistant for History 100S: Text Analysis for Digital Humanists and Social Scientists. Developing lecture materials in iPython Notebook on NLP, text analysis, and machine learning techniques for students in humanities without prior knowledge to understand and to use on final research paper. Designing coding exercises for students to practice with and gain familiarity with text analysis in Python using libraries such as NumPy, SciPy, Matplotlib, scikit-learn, Pandas, and nltk.
+      description: Data Science Connector Assistant for History 100S Text Analysis for Digital Humanists and Social Scientists. Developing lecture materials in iPython Notebook on NLP, text analysis, and machine learning techniques for students in humanities without prior knowledge to understand and to use on final research paper. Designing coding exercises for students to practice with and gain familiarity with text analysis in Python using libraries such as NumPy, SciPy, Matplotlib, scikit-learn, Pandas, and nltk.
     - work2:
       company: UC Berkeley Computer Vision Group
       location: Berkeley, California, United States
