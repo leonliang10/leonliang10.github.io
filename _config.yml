@@ -28,25 +28,31 @@ author:
 
   workHistory:
     - work1:
+      company: Berkeley Institute for Data Science
+      location: Berkeley, California, United States
+      started: 2017
+      duration: (January 2016 - Present)
+      description: Data Science Connector Assistant for History 100S: Text Analysis for Digital Humanists and Social Scientists. Developing lecture materials in iPython Notebook on NLP, text analysis, and machine learning techniques for students in humanities without prior knowledge to understand and to use on final research paper. Designing coding exercises for students to practice with and gain familiarity with text analysis in Python using libraries such as NumPy, SciPy, Matplotlib, scikit-learn, Pandas, and nltk.
+    - work2:
       company: UC Berkeley Computer Vision Group
       location: Berkeley, California, United States
       started: 2016
-      duration: (March 2016 - Present)
+      duration: (March 2016 - December 2016)
       description: Research Assistant for Computer vision research that focuses on the analysis and identifying photo parameters that affect the realism of the captured photo versus the natural scene. Rebuilding the iOS photo editing application in Objective-C for subjects to use during experiments to collect raw photo data for research purposes. Implementing high-dynamic range photo processing algorithm in Objective-C with OpenCV library for subjects to capture more accurate photos.
-    - work2:
+    - work3:
       company: UC Berkeley Electrical Engineering Computer Science
       location: Berkeley, California, United States
       started: 2015
       duration: (October 2015 - Present)
       description: Accounting assistant assisting the Electrical Engineering Computer Science Accounting group with financial projects and processing EECS professosr and department fundings. Supporting accounting group with departmental funding from thousands to millions of dollars. Updated the EECS textbook database for faster and simpler data entry for future users
-    - work3:
+    - work4:
       company: Lockheed Martin Space Systems Company
       location: Sunnyvale, California, United States
       title: Data Scientist Intern
       started: 2016
       duration: (May 2016 - August 2016)
       description: Data Scientist Intern that supported Market Analysis Team within Competitive Intelligence to analyze space industry. Designed a sentiment analysis tool (Java) using NLP to generate LM’s major competitors’ trending using over 3,000 articles scrapped from space industry related news websites for quick market analysis. Developed a predictive analytics tool (R) that predicts project costs using regression trees with existing LM database consisting of over 15,000 data of previous space projects to assist with business strategic planning. Generated statistical reports of estimated project costs from predictive analytics tool results for team to use on market analysis and strategic planning for future space projects.
-    - work4:
+    - work5:
       company: UC Berkeley Physics
       location: Berkeley, California, United States
       started: 2014
