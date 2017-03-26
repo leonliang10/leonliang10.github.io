@@ -66,7 +66,7 @@ author:
       major: Engineering Mathematics and Statistics with emphasis in Computer Science
       started: 2013
       duration: (2013 - 2017)
-      description: My current major is engineering mathematics and statistics with emphasis in computer science. Relevant coursework for my major includes many of both theoretical and applied mathematics, statistics, and computer science courses. gRelevant courseworks Machine Learning, Artificial Intelligence, Efficient Algorithms and Intractable Problems, Data Structures, Concepts in Probability, Concepts in Data Computing, Linear Algebra, Numerical Analysis, Real Analysis, Complex Analysis.
+      description: My current major is engineering mathematics and statistics with emphasis in computer science. Relevant coursework for my major includes many of both theoretical and applied mathematics, statistics, and computer science courses. Relevant courseworks include Machine Learning, Database, Artificial Intelligence, Efficient Algorithms and Intractable Problems, Data Structures, Computational Photography, Concepts in Probability, Concepts in Statistics, Concepts in Data Computing, Linear Algebra, Numerical Analysis, Real Analysis, Complex Analysis, Optimization.
     - education2:
       organization: College of Alameda
       location: Alameda, California, United States
@@ -99,11 +99,14 @@ author:
       name: MATLAB
       percentage: 90%
     - skill5:
+      name: SQL
+      percentage: 80%
+    - skill6:
       name: Objective-C
       percentage: 60%
-    - skill6:
+    - skill7:
       name: Swift
       percentage: 50%
-    - skill6:
+    - skill8:
       name: C
       percentage: 30%
