@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Leon Liang
-  title: Aspiring Data Scientist
+  title: Software Engineer
   address: Bay Area, California
   email: leonliang10 [at] berkeley [dot] com
   link: 
@@ -28,23 +28,29 @@ author:
 
   workHistory:
     - work1:
+      company: Amazon Music
+      location: San Francisco, California, United States
+      started: 2019
+      duration: (March 2019 - Present)
+      description: Software Engineer at Amazon Music in the Music Metrics team. 
+    - work2:
+      company: Capital One
+      location: San Francisco, California, United States
+      started: 2017
+      duration: (July 2017 - March 2019)
+      description: Data Engineer at Capital One on the Digital Experimentation team. Refactored core backend analysis logic code to Spark running on AWS EMR, resulting in 50% process time reduction and reducing Redshift resource. Migrated data to enterprise cloud data warehouse solution, Snowflake, and data lake, making data available to Capital One associates for business analysis. Designed and built ML model pipeline to run 100+ A/B tests in parallel using distributed cloud computing powered by AWS EC2, Lambda, S3, and Redshift, reducing A/B testing time by 50%. Implemented APIs to dynamically allocate A/B tests web traffic based on ML model output, minimizing lost opportunity cost on testing. Refactored legacy data ETL code to Spark running on AWS EMR, resulting in 50% process time reduction and 30% data traffic capacity increase. Deployed multiple large-scale data ETL pipelines to ingest terabytes of data, generating more accurate ML models for A/B testing. Optimized Redshift database, resulting in 30% storage capacity increase and 50% query process time reduction.
+    - work3:
       company: Berkeley Institute for Data Science
       location: Berkeley, California, United States
       started: 2017
-      duration: (January 2016 - Present)
-      description: Data Science Connector Assistant for History 100S Text Analysis for Digital Humanists and Social Scientists. Developing lecture materials in iPython Notebook on NLP, text analysis, and machine learning techniques for students in humanities without prior knowledge to understand and to use on final research paper. Designing coding exercises for students to practice with and gain familiarity with text analysis in Python using libraries such as NumPy, SciPy, Matplotlib, scikit-learn, Pandas, and nltk.
+      duration: (January 2017 - May 2017)
+      description: Data Science Connector Assistant for History 100S Text Analysis for Digital Humanists and Social Scientists. Developed lecture materials in iPython Notebook on NLP, text analysis, and machine learning techniques for students in humanities without prior knowledge to understand and to use on final research paper. Designed coding exercises for students to practice with and gain familiarity with text analysis in Python using libraries such as NumPy, SciPy, Matplotlib, scikit-learn, Pandas, and nltk.
     - work2:
       company: UC Berkeley Computer Vision Group
       location: Berkeley, California, United States
       started: 2016
-      duration: (March 2016 - December 2016)
-      description: Research Assistant for Computer vision research that focuses on the analysis and identifying photo parameters that affect the realism of the captured photo versus the natural scene. Rebuilding the iOS photo editing application in Objective-C for subjects to use during experiments to collect raw photo data for research purposes. Implementing high-dynamic range photo processing algorithm in Objective-C with OpenCV library for subjects to capture more accurate photos.
-    - work3:
-      company: UC Berkeley Electrical Engineering Computer Science
-      location: Berkeley, California, United States
-      started: 2015
-      duration: (October 2015 - Present)
-      description: Accounting assistant assisting the Electrical Engineering Computer Science Accounting group with financial projects and processing EECS professosr and department fundings. Supporting accounting group with departmental funding from thousands to millions of dollars. Updated the EECS textbook database for faster and simpler data entry for future users
+      duration: (March 2016 - May 2017)
+      description: Research Assistant for Computer vision research that focuses on the analysis and identifying photo parameters that affect the realism of the captured photo versus the natural scene. Rebuilt the iOS photo editing application in Objective-C for subjects to use during experiments to collect raw photo data for research purposes. Implemented high-dynamic range photo processing algorithm in Objective-C with OpenCV library for subjects to capture more accurate photos.
     - work4:
       company: Lockheed Martin Space Systems Company
       location: Sunnyvale, California, United States
@@ -67,46 +73,20 @@ author:
       started: 2013
       duration: (2013 - 2017)
       description: My current major is engineering mathematics and statistics with emphasis in computer science. Relevant coursework for my major includes many of both theoretical and applied mathematics, statistics, and computer science courses. Relevant coursework include Machine Learning, Database, Artificial Intelligence, Efficient Algorithms and Intractable Problems, Data Structures, Computational Photography, Concepts in Probability, Concepts in Statistics, Concepts in Data Computing, Linear Algebra, Numerical Analysis, Real Analysis, Complex Analysis, Optimization.
-    - education2:
-      organization: College of Alameda
-      location: Alameda, California, United States
-      degree: Associate of Arts
-      major: Mathematics
-      started: 2009
-      duration: (2009 - 2013)
-      description: Attended College of Alameda while in high school. Graduated with an Associate of Arts in Mathematics at the same time as high school.
   languages:
     - language1:
       name: English
       proficiency: Native
     - language2:
-      name: Cantonese
+      name: Chinese
       proficiency: Native
-    - language3:
-      name: Mandarin
-      proficiency: Professional
   programmingSkills:
     - skill1:
       name: Python
       percentage: 100%
     - skill2:
-      name: R
+      name: SQL
       percentage: 100%
     - skill3:
       name: Java
-      percentage: 90%
-    - skill4:
-      name: MATLAB
-      percentage: 90%
-    - skill5:
-      name: SQL
       percentage: 80%
-    - skill6:
-      name: Objective-C
-      percentage: 60%
-    - skill7:
-      name: Swift
-      percentage: 50%
-    - skill8:
-      name: C
-      percentage: 30%
